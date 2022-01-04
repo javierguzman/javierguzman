@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Kindoi Logo](https://github.com/javierguzman/javierguzman/main/assets/kindoi_header_400x150.png)](https://www.kindoi.com)
+
+### Hi there
+
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
