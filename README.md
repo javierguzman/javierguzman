@@ -9,7 +9,9 @@
 
 My name is Javier Guzman and I am a software engineer living in Europe. I have an embedded software background and I have worked in the automotive, aerospace and telecom sectors.
 
-I left my job to change my career and work on my own. I like travel, photography and reading technical books. You can find me on:
+I left my job to make a change in my career and move into the web application world. I like travel, photography, reading technical books and currently I am working on my own.
+
+🖖You can find me on🖖
 
 
 <a href="https://www.linkedin.com/in/javierguzmanjimenez">
