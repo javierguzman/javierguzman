@@ -2,7 +2,9 @@
 
 My name is Javier Guzman and I am a software engineer living in Europe. I have an embedded software background and I have worked in the automotive, aerospace and telecom sectors.
 
-I left my job to make a change in my career and move into the web application world. I like travel, photography, reading technical books and currently I am working on my own.
+In 2020 I left my job to make a change in my career and move into the web application world. I wanted to create something by myself so I tried to create Kindoi, a web app to get your travel itinerary sorted within seconds. However, I have recently decided not to continue with the idea as I did not see the desired growth and there are millions of other ideas waiting to be shipped. I like travel, photography, reading technical books.
+
+Currently I am looking for a job in the web development sector.
 
 🖖You can find me on🖖
 
@@ -18,7 +20,7 @@ I left my job to make a change in my career and move into the web application wo
 
 # What projects am I working on?
 
-I was recently working on Kindoi; a web app to get your travel itinerary sorted within seconds. However, I have decided not to continue with the idea as I did not see the desired growth and there are millions of ideas waiting to be shipped. Now, while I am looking for a job in the web development sector, I am working on a React Native mobile phone app which I hope to have a MVP for February.
+While I am looking for a good job, I am working on a React Native mobile phone app which I hope to have a MVP for February 2023.
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
