@@ -18,7 +18,7 @@ I left my job to make a change in my career and move into the web application wo
 
 # What projects am I working on?
 
-I was recently working on Kindoi; a web app to get your travel itinerary sorted within seconds. However, I have decided not to continue with the idea as I did not see the desired growth and there are millions of ideas waiting to be shipped. Now I am working on a React Native mobile phone app which I hope to have a MVP for February.
+I was recently working on Kindoi; a web app to get your travel itinerary sorted within seconds. However, I have decided not to continue with the idea as I did not see the desired growth and there are millions of ideas waiting to be shipped. Now, while I am looking for a job in the web development sector, I am working on a React Native mobile phone app which I hope to have a MVP for February.
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
