@@ -20,7 +20,7 @@ Currently I am looking for a job in the web development sector.
 
 # What projects am I working on?
 
-While I am looking for a good job, I am working on a React Native mobile phone app which I hope to have a MVP for February 2023.
+While I am looking for a good job, I am working on [Little Tribe](https://play.google.com/store/apps/details?id=app.littletribe) (open testing release right now) a React Native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
