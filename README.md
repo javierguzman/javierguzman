@@ -8,7 +8,6 @@ Currently I am looking for a job in the web development sector.
 
 🖖You can find me on🖖
 
-
 <a href="https://www.linkedin.com/in/javierguzmanjimenez">
     <img  src="https://raw.githubusercontent.com/javierguzman/javierguzman/main/assets/linkedin.png" alt="Javier Guzman LinkedIn" width="21px"/>
 </a> &nbsp; <a href="https://www.instagram.com/javierguzmandev/">
@@ -20,7 +19,9 @@ Currently I am looking for a job in the web development sector.
 
 # What projects am I working on?
 
-While I am looking for a good job, I am working on [Little Tribe](https://play.google.com/store/apps/details?id=app.littletribe) (open testing release right now) a React Native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
+While I am looking for a job, I am working on [Little Tribe](https://www.littletribe.app) A React Native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
+
+More about projects on https://www.guzman.dev
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
