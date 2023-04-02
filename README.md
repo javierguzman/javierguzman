@@ -1,10 +1,10 @@
 # How am I?
 
-My name is Javier Guzman and I am a software engineer living in Europe. I have an embedded software background and I have worked in the automotive, aerospace and telecom sectors.
+My name is Javier Guzman, a software engineer living in Europe. I have an embedded software background and I have worked in the automotive, aerospace and telecom sectors.
 
-In 2020 I left my job to make a change in my career and move into the web application world. I wanted to create something by myself so I tried to create Kindoi, a web app to get your travel itinerary sorted within seconds. However, I have recently decided not to continue with the idea as I did not see the desired growth and there are millions of other ideas waiting to be shipped. I like travel, photography, reading technical books.
+In 2020 I moved into the web/mobile phone apps sector and made my first dive into the entrepreneur world. As a result of that I created Kindoi, a web app to get your travel itinerary sorted within seconds. A demo can be found on my personal website.
 
-Currently I am looking for a job in the web development sector.
+Currently, I am looking for a job while creating more apps.
 
 🖖You can find me on🖖
 
@@ -19,9 +19,11 @@ Currently I am looking for a job in the web development sector.
 
 # What projects am I working on?
 
-While I am looking for a job, I am working on [Little Tribe](https://www.littletribe.app) A React Native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
+I have recently launched [Little Tribe](https://www.littletribe.app). A React native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
 
-More about projects on https://www.guzman.dev
+Also I have just started creating a new project, still to be announced, but the backend will use FastAPI so Python, there we go!
+
+More about projects on my [personal website](https://www.guzman.dev)
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
