@@ -4,7 +4,7 @@ My name is Javier Guzman, a software engineer living in Europe. I have an embedd
 
 In 2020 I moved into the web/mobile phone apps sector and made my first dive into the entrepreneur world. As a result of that I created Kindoi, a web app to get your travel itinerary sorted within seconds. A demo can be found on my personal website.
 
-Currently, I am looking for a job while creating more apps.
+Currently, I work for a company while creating more apps.
 
 🖖You can find me on🖖
 
