@@ -1,4 +1,4 @@
-# How am I?
+# Who am I?
 
 My name is Javier Guzman, a software engineer living in Europe. I have an embedded software background and I have worked in the automotive, aerospace and telecom sectors.
 
