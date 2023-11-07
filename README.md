@@ -19,11 +19,11 @@ Currently, I work for a company while creating more apps.
 
 # What projects am I working on?
 
-I have recently launched [Little Tribe](https://www.littletribe.app). A React native app aiming to help traditional and non-traditional families find other families with similar interests. iOS release will come in future.
+Recently I have launched [AI Promoter Bot](https://aipromoterbot.com) which helps you promote on Reddit using AI, however, it breaks ToS so sign ups are disabled.
 
-Also I have just started creating a new project, still to be announced, but the backend will use FastAPI so Python, there we go!
+Right now I am baking the next idea.
 
-More about projects on my [personal website](https://www.guzman.dev)
+More about projects on my [personal website](https://guzman.dev)
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
