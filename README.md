@@ -16,8 +16,7 @@ Currently, I work for a company while creating more apps.
 <a href="https://x.com/javierguzmandev" align="left">
     <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg"
-            className="w-6 h-6 sm:w-8 sm:h-8 mr-1 sm:mr-4"
-            alt="twitter"
+            alt="Javier Guzman Instagram" width="21px"
           />
 </a>
 
