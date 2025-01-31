@@ -8,17 +8,10 @@ Currently, I work for a company while creating more apps.
 
 🖖You can find me on🖖
 
-<a href="https://www.linkedin.com/in/javierguzmanjimenez">
-    <img  src="https://raw.githubusercontent.com/javierguzman/javierguzman/main/assets/linkedin.png" alt="Javier Guzman LinkedIn" width="21px"/>
-</a> &nbsp; <a href="https://www.instagram.com/javierguzmandev/">
-    <img src="https://raw.githubusercontent.com/javierguzman/javierguzman/main/assets/instagram.png" alt="Javier Guzman Instagram" width="21px"/>
-</a>
-<a href="https://x.com/javierguzmandev" align="left">
-    <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg"
-            alt="Javier Guzman X" width="21px"
-          />
-</a>
+- [Linkedin](https://www.linkedin.com/in/javierguzmanjimenez)
+- [Instagram](https://www.instagram.com/javierguzmandev/)
+- [X](https://x.com/javierguzmandev)
+  
 
 # What projects am I working on?
 
