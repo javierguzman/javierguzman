@@ -19,7 +19,7 @@ Recently I have launched [Deploy Quick](https://deployquick.com) which offers Te
 
 Right now I am baking the next idea.
 
-*More about projects on my [personal website](https://guzman.dev)*
+**More about projects on my [personal website](https://guzman.dev)**
 
 <!--
 **javierguzman/javierguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
