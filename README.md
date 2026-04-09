@@ -4,7 +4,7 @@ My name is Javier Guzman, a software engineer living in Europe. I have an embedd
 
 In 2020 I moved into the web/mobile phone apps sector and made my first dive into the entrepreneur world. As a result of that I created Kindoi, a web app to get your travel itinerary sorted within seconds. A demo can be found on my personal website.
 
-Currently, I work for a company while creating more apps.
+Currently, I'm open to work.
 
 🖖You can find me on🖖
 
@@ -15,9 +15,7 @@ Currently, I work for a company while creating more apps.
 
 # What projects am I working on?
 
-Recently I have launched [Deploy Quick](https://deployquick.com) which offers Terraform blueprints so people can deploy on different providers quickly.
-
-Right now I am baking the next idea.
+Recently I have revamped [Little Tribe](https://littletribe.app) a social network app for families.
 
 **More about projects on my [personal website](https://guzman.dev)**
 
